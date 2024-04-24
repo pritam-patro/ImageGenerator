@@ -1,5 +1,5 @@
 # Generative AI
-
+Generative AI encompasses AI techniques that create new data instances resembling existing datasets. These models, like GANs and VAEs, learn patterns from large datasets and generate new samples. They're used in image synthesis, text generation, and music composition. Generative AI enables AI systems to produce novel and realistic content, advancing fields like computer vision and natural language processing, and fostering creativity across various domains.
 ## Machine Learning Basics
 
 Machine learning is a branch of artificial intelligence (AI) that focuses on building systems that can learn from data. It involves the development of algorithms and models that enable computers to automatically learn and improve from experience without being explicitly programmed.
