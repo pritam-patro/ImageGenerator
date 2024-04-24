@@ -58,6 +58,9 @@ Diffusion models can also be used for image inpainting, where missing or damaged
 ## Training
 
 Diffusion models are trained using maximum likelihood estimation (MLE), where the model is optimized to maximize the likelihood of generating the ground truth images from their noise-corrupted versions. Model parameters are updated using gradient descent or similar optimization algorithms to minimize the reconstruction error between the generated images and the ground truth images.
+
+### Example of Diffusion Model
+![diffusion model](diffusion_model.png)
 ## Getting Started
 
 To get started with the code implementations and resources in this repository, please refer to the respective directories for each topic.
